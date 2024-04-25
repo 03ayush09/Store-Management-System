@@ -56,9 +56,10 @@ The relation is normalized till BCNF, resulting in 7 tables as mentioned in the 
 
 ## Frontend
 
-[Include details about the GUI here.]
+The GUI is developed using Tkinter Library for Python, providing a user-friendly interface for interacting with the Store Management System. It includes intuitive screens for inventory management, sales, purchases, user management, and reporting. The GUI facilitates easy navigation and data entry, enhancing the overall user experience.
 
 ## Setup and Usage
 
-[Include instructions on how to set up and run the application, any prerequisites, and other relevant information for users and developers.]
+Open the Sample Dataset.py and replace the mysql server details with accordingly before running. Then run this file to create the tables and insert some sample data in the database.<br>
+Open the Main.py and replace the mysql server details with accordingly before running. Then run the file. The GUI interface will pop up and the functionalities are ready to use.
 
